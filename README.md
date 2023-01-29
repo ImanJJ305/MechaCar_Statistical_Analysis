@@ -12,3 +12,5 @@ This election analysis was conducted to assist a Colorado board of elections tea
 #### Summary Statistics on Suspension Coils
 
 #### T-Tests on Suspension Coils
+
+#### Study Design: MechaCar vs Competition
