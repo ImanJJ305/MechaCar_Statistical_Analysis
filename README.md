@@ -22,4 +22,10 @@ This data analysis was conducted to assist an auto manaufacturing team in progre
 
 #### T-Tests on Suspension Coils
 
+<img width="554" alt="Screen Shot 2023-02-04 at 12 33 39 PM" src="https://user-images.githubusercontent.com/80222506/216781572-9387a1f6-c30c-4798-8899-ae8321c25b1b.png">
+
+<img width="640" alt="Screen Shot 2023-02-04 at 12 34 55 PM" src="https://user-images.githubusercontent.com/80222506/216781593-071690f7-2274-4f2a-9525-0f72d0a05d5d.png">
+
+<img width="646" alt="Screen Shot 2023-02-04 at 12 35 15 PM" src="https://user-images.githubusercontent.com/80222506/216781607-2a4ad7ed-879b-474a-9138-fb52a42cf54d.png">
+
 #### Study Design: MechaCar vs Competition
