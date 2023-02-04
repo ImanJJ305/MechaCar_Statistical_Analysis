@@ -9,6 +9,8 @@ This data analysis was conducted to assist an auto manaufacturing team in progre
 ### Summary
 #### Linear Regression to Predict MPG
   -
+  - The slope shouldn't be zero. This canbe determined using the p-value. 
+  - Since the RSquared value is above 70%, this means that the model will accurately predict the values at least 70% of the time. 
 
 <img width="516" alt="Screen Shot 2023-01-28 at 6 54 51 PM" src="https://user-images.githubusercontent.com/80222506/215306007-b7ddb18a-7ee7-4f0b-b72d-e89fc9daa646.png">
 
