@@ -9,7 +9,7 @@ This data analysis was conducted to assist an auto manaufacturing team in progre
 
 ### Summary
 #### Linear Regression to Predict MPG
-  - The vehicle weight, spoiler_angle & AWD variables provided a non-random amount of variance in the dataset. 
+  - The vehicle length, spoiler_angle & grown clearance variables provided to have a great affect on the MGP of Mechacar's vehicles.  
   - The slope of the linear model is not zero; howeveer the p-value is lower than any level of importance forcing us to reject the null hypothesis. 
   - Considering the RSquared value is above 70%, the model will accurately predict the values at least 70% of the time. 
 
